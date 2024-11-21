@@ -27,4 +27,5 @@ A simple Python script that allows you to test if your **ngrok API key** is vali
 You can install the required library with:
 
 ```bash
+https://github.com/Retr0Kali/Ngrok-Api-Tester.git
 pip install requests
