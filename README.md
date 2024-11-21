@@ -8,7 +8,7 @@
 
 
 
-# ngrok API Key Tester
+# Ngrok API Key Tester
 
 A simple Python script that allows you to test if your **ngrok API key** is valid. The script uses ngrok's [API](https://ngrok.com/docs/api/resources/api-keys/) to validate the API key and list associated API keys.
 
